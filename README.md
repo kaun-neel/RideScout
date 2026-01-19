@@ -17,7 +17,7 @@ This project demonstrates how automated workflows can provide significant value 
 ## Features
 
 - 🚕 **Multi-App Comparison**: Automatically checks prices across Uber, Ola, and Rapido
-- 🤖 **LLM-Powered**: Uses z-ai/glm-4.5-air model via OpenRouter for intelligent UI interaction
+- 🤖 **LLM-Powered**: Uses z-ai/glm-4.5-air and mistralai/devstral-2512:free model via OpenRouter for intelligent UI interaction
 - 🎯 **Reliable**: Handles failures gracefully - continues even if one or two apps fail
 - 👀 **Vision-Enabled**: Uses screenshots and accessibility tree for UI understanding
 - 🔒 **Safe**: Never auto-books rides - requires user confirmation

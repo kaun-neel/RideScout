@@ -109,7 +109,7 @@ Verify that Droidrun Portal accessibility service is enabled and running.
 ### Step 3: Run the Script
 
 ```bash
-python cab_price_comparison.py
+python main.py
 ```
 
 ### Step 4: Follow the Prompts

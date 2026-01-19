@@ -1,5 +1,5 @@
 """
-RIDE SCOUT - Compare cab prices across multiple apps using Droidrun and LLMs.
+RIDE SCOUT
 """
 import os
 import sys

@@ -143,7 +143,7 @@ PRICE COMPARISON RESULTS
 
   Uber       : ₹250.00
   Ola        : ₹235.00
-  Rapido     : FAILED
+  Rapido     : ₹248.00
 
 ----------------------------------------------------------
 🎯 CHEAPEST OPTION: Ola at ₹235.00

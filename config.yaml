@@ -1,0 +1,35 @@
+agent:
+  max_steps: 35
+  reasoning: true
+  streaming: true
+
+llm_profiles:
+  manager:
+    provider: OpenRouter
+    model: mistralai/devstral-2512:free
+    temperature: 0.2
+
+  executor:
+    provider: OpenRouter
+    model: mistralai/devstral-2512:free
+    temperature: 0.2
+
+  codeact:
+    provider: OpenRouter
+    model: mistralai/devstral-2512:free
+    temperature: 0.2
+
+  app_opener:
+    provider: OpenRouter
+    model: mistralai/devstral-2512:free
+    temperature: 0.0
+
+  text_manipulator:
+    provider: OpenRouter
+    model: mistralai/devstral-2512:free
+    temperature: 0.3
+
+  scripter:
+    provider: OpenRouter
+    model: mistralai/devstral-2512:free
+    temperature: 0.1

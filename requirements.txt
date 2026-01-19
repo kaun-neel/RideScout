@@ -1,0 +1,6 @@
+droidrun
+python-dotenv
+requests
+
+droidrun[google,anthropic,openai,deepseek,ollama,dev,openrouter]
+colorama
